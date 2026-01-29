@@ -54,7 +54,7 @@ An **IoT-enabled smoke detection system** developed using the MQ-135 gas sensor 
 ![Final Project Photo](Project-Photo.jpg)
 
 ### 📽️ Live Demo Video
-[📺 Watch Project Demo on Google Drive](https://drive.google.com/file/d/1q_IVqRpabbkN38JdHxFjajuIb10Q2Nq1/view?usp=sharing)
+[📺 Watch Project Demo on Google Drive](https://drive.google.com/file/d/1zewk8KLDdefuBXLAo9k2TP09KUo22ezG/view?usp=drive_link)
 
 You can also find the demo video inside this repository:  
 - [`Project-Demo.mp4`](Project-Demo.mp4)
